@@ -1,7 +1,8 @@
 # Who is that Pokemon!
 
 > **Info required for Hackathon:** <br>
-> I've been coding for more than a year in javascript, and this is my first time building a python CLI
+> I've been coding for more than a year in javascript, and this is my first time building a python CLI after learning python from boot.dev <br>
+> Category: Senior (I guess)
 
 We all remember the starting of Pokemon show, **Who's that Pokemon**. So I've tried get back the nostalgia by building a similar CLI guesser game using Python3
 
