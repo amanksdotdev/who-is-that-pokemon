@@ -5,6 +5,8 @@
 
 We all remember the starting of Pokemon show, **Who's that Pokemon**. So I've tried get back the nostalgia by building a similar CLI guesser game using Python3
 
+![screenshot](/screenshots/poke.png)
+
 ## Quick Start
 
 Running the CLI tool is pretty simple
@@ -24,10 +26,6 @@ Running the CLI tool is pretty simple
    pip install -r requirements.txt
    python main.py
    ```
-
-## Screenshots
-
-![screenshot]('/../screenshots/poke.png')
 
 ## Tech Used
 
